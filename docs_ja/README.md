@@ -18,6 +18,7 @@ Cline ドキュメントへようこそ - Clineの機能を使用および拡張
 -   **Clineの機能を理解する：**
 
     -   [Clineツールガイド](tools/cline-tools-guide.md)
+    -   [メンション機能ガイド](tools/mentions-guide.md)
 
 -   **MCPサーバーでClineを拡張する：**
     -   [MCP概要](mcp/README.md)
